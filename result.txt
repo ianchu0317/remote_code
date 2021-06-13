@@ -1,0 +1,18 @@
+<Sun Jun 13 12:13:38 2021>: hola
+[Errno 2] No such file or directory: 'hola'
+
+<Sun Jun 13 12:13:41 2021>: ls
+client.py
+install.sh
+README.md
+result.txt
+server.py
+
+
+<Sun Jun 13 12:13:44 2021>: pwd
+/home/ianchu0317/remote_code
+
+
+<Sun Jun 13 12:13:46 2021>: cd ..
+[Errno 2] No such file or directory: 'cd'
+
